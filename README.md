@@ -14,7 +14,8 @@ Professional Summary
 •	Experience creating Historical and Incremental Jobs and alerts and setting up SQL server mail agents for SSIS packages. 
 •	Expertise in SQL Server SSIS/SSRS/Power BI Desktop in various Industries like Finance, Retailer, and Insurance.
 •	Expertise in creating and managing database objects by using DDL, DML, DQL, DCL, and TCL
-•	Expertise in reports like Drill Down, Drill Through, Parameterized, columns, stacked, trend, card, KPI, Matrix, and Web reporting by customizing URL Access.
+•	Expertise in reports like Drill Down, Drill Through, Parameterized, columns, stacked, trend, card, KPI, Matrix, and Web reporting by
+customizing URL Access.
 •	Expert in building visualizations in Power BI Desktop and Power BI Service and managing Power BI workspace users.
 •	Hands-on experience deploying Power BI reports to the app workspace and configuring getaways for data refresh.
 •	Comprehensive knowledge of all phases of the Software Development Life Cycle (SDLC)
